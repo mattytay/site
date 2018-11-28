@@ -3,7 +3,7 @@
     "Apps": ["Coinbase Wallet"],
     "Baskets": ["Set"],
     "Derivatives": ["dY/dX", "Market Protocol", "bZx"],
-    "Exchanges": ["Kyber Network", "Market Protocol"],
+    "Exchanges": ["Kyber Network", "Market Protocol", "0x"],
     "Insurance": ["CDx", "Market Protocol"],
     "Loans": ["Dharma"],
     "Payments": ["8x Protocol"],
